@@ -1,5 +1,5 @@
 from clases import Director, Gerente, JefeArea
-
+#
 if __name__ == "__main__":
     director = Director("Carlos", 45, 5000, "Finanzas", "Contabilidad")
     gerente = Gerente("Ana", 38, 4000, "Finanzas", "Inversiones")
